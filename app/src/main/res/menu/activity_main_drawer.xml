@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/legal_smal"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/main_notifications"
+            android:title="@string/notifications" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_nav_logout"
+            android:title="@string/logout"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_nav_login"
+            android:title="@string/login"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/star"
+            android:title="@string/rate_app" />
+    </group>
+</menu>

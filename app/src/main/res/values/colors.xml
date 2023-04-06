@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#333366</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackground">#BDE0FE</color>
+    <color name="blackStatusBar">#000000</color>
+    <color name="blueActionBar">#0080BC</color>
+    <color name="white">#ffffff</color>
+    <color name="true_gray">#E6E6E6</color>
+    <color name="dark_gray">#575757</color>
+    <color name="gray">#3C333366</color>
+    <color name="pop">#AB000000</color>
+    <color name="new_notifications">#5794E5E6</color>
+    <color name="main">#1f73b1</color>
+<!--    <color name="main">#1f73b1</color>-->
+    <color name="light_gray">#FCFCFC</color>
+    <color name="main_dark">#125180</color>
+    <color name="main_light">#4494CF</color>
+    <color name="black">#000</color>
+    <color name="dollar_back_blue">#004A92</color>
+    <color name="dollar_back_read">#C80000</color>
+    <color name="dollar_back_grane">#009B55</color>
+    <color name="cont_blue">#005BB7</color>
+    <color name="cont_red">#DA0303</color>
+    <color name="cont_grean">#00C269</color>
+    <color name="cont_blue_light">#00BCF3</color>
+    <color name="dollar_back_blue_light">#0097C1</color>
+    <color name="cont_yallow">#FF9900</color>
+    <color name="dollar_back_yal">#D07B00</color>
+</resources>
